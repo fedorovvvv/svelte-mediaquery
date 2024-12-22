@@ -57,6 +57,7 @@
     "type": "module",
     "exports": {
         ".": {
+            "default": "./components/MediaQuery.svelte",
             "svelte": "./components/MediaQuery.svelte",
             "types": "./components/MediaQuery.svelte.d.ts"
         }
